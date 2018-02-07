@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="828180c1-a772-4162-981d-0f33a9f51ccc" name="Default" comment="" />
+    <list default="true" id="828180c1-a772-4162-981d-0f33a9f51ccc" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_alibaba_fastjson_1_2_46.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_all_4_1_20_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/spring-netty.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/spring-netty_main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/spring-netty_test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/constant/Constant.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/controller/NettyController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/demo/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/init/AfterSpringBegin.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/manage/ManageMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/server/BaseWebSocketServerHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/server/WebSocketChildChannelHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/server/WebSocketServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/server/WebSocketServerHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/simple/chat/client/SimpleChatClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/simple/chat/client/SimpleChatClientHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/simple/chat/client/SimpleChatClientInitializer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServerHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServerInitializer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application-beans.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application-netty.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/conf/websocket.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/web/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -46,8 +93,8 @@
       <file leaf-file-name="SimpleChatServerInitializer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServerInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="245">
+              <caret line="14" column="82" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,8 +129,8 @@
       <file leaf-file-name="SimpleChatServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="29" column="57" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="65" />
+            <state relative-caret-position="204">
+              <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#459#460#0" expanded="true" />
@@ -93,12 +140,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="110">
+                <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -486,6 +556,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tian/simple/chat/client/SimpleChatClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServerInitializer.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -534,6 +605,51 @@
             <path>
               <item name="spring-netty" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tian" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-netty" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tian" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="sever" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -708,12 +824,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517968565418</updated>
-      <workItem from="1517968567150" duration="3622000" />
+      <workItem from="1517968567150" duration="3764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3622000" />
+    <option name="totallyTimeSpent" value="3764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="158" y="23" width="1756" height="977" extended-state="0" />
@@ -765,14 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -978,16 +1086,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.ignoregit">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -996,10 +1094,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="14" column="82" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tian/simple/chat/sever/SimpleChatServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="57" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="65" />
+        <state relative-caret-position="204">
+          <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#459#460#0" expanded="true" />
@@ -1008,11 +1124,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="522">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
